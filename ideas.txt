@@ -1,0 +1,68 @@
+
+# Confession
+* Never developed a game
+* The talk is serious (although the tag suggests fun)
+
+## How I got here?
+* Reddit r/gamedev
+* Same patterns, same questions, same answers, different people
+
+
+# Reduce your scope
+
+
+# Why do developers develop games?
+* Because they want to
+* Passion
+* Money doesn't matter
+* They take long hours
+
+
+# Why do players play games?
+* It's fun
+* They are polished
+* There are many games
+
+
+# Performance budgets
+* First screen must show up after a few seconds (after inserting the disk)
+* Frame budget (16.67ms)
+* Response to user interaction (click, keypress) in at most 100ms
+* 
+
+
+# Scope
+* Reduce scope
+* A finished small game is much better than an unfinished but huge game
+* What is the core mechanics?
+* What does it make fun?
+
+
+# Prototyping = MVP
+* Always test the core mechanics
+
+
+# User testing
+* Test lab
+* No influence on the user, just look at what they do
+* Just thank for the feedback
+* Don't promise anything
+
+
+# Data Oriented Programming
+* OOP is the new Goto
+* OOP is dead
+* Everything is just data
+
+
+# Behavior Trees
+* The system the user interacts with is an AI
+* Communication inside the team
+
+
+# Training, introduction, warmup
+* Slowly showing the game mechanics - the software starts with empty data
+* Guiding the user through the first levels - showing them the controls/mechanics/enemies/constraints
+
+
+- autofire (if unlimited ammo - user doesn't have to press the button the whole time)

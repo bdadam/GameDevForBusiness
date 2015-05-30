@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Lessons Learned From Video Game Developers | Adam Beres-Deak</title>
+    <meta name="description" content="">
+    <meta name="author" content="Adam Beres-Deak me@bdadam.com">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/black.css" id="theme">
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <script>
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+    <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <style>
+    h1, p, div {
+        text-shadow: 1px 1px 2px rgba(127, 127, 127, .55) !important;
+    }
+    .attribution.attribution.attribution.attribution {
+        position: absolute;
+        bottom: -20%;
+        right: 0;
+        font-size: .5em;
+    }
+
+    .bgvid.bgvid.bgvid.bgvid.bgvid {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        min-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+        z-index: -100;
+        -webkit-transform: translateX(-50%) translateY(-50%);
+        transform: translateX(-50%) translateY(-50%);
+        background: url(polina.jpg) no-repeat;
+        background-size: cover;
+    }
+
+    blockquote {
+        font-style: normal !important;
+    }
+
+    blockquote strong {
+        text-decoration: underline;
+    }
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+            <section data-markdown="slides/intro.md" data-separator="^---$" data-separator-vertical="^----$"></section>
+            <section data-markdown="slides/passion.md" data-separator="^---$" data-separator-vertical="^--$"></section>
+            <section data-markdown="slides/perfbudget.md" data-separator="^---$" data-separator-vertical="^----$"></section>
+            <section data-markdown="slides/gameloop.md" data-separator="^---$" data-separator-vertical="^----$"></section>
+            <section data-markdown="slides/ecs.md" data-separator="^---$" data-separator-vertical="^----$"></section>
+            <section data-markdown="slides/behaviortree.md" data-separator="^---$" data-separator-vertical="^----$"></section>
+            <section data-markdown="slides/outro.md" data-separator="^---$" data-separator-vertical="^----$"></section>
+        </div>
+    </div>
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+    <script>
+        // Full list of configuration options available at:
+        // https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            mouseWheel: true,
+            //slideNumber: true,
+            transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+            // Optional reveal.js plugins
+            dependencies: [
+                { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'plugin/zoom-js/zoom.js', async: true },
+                { src: 'plugin/notes/notes.js', async: true }
+            ]
+        });
+    </script>
+</body>
+</html>
