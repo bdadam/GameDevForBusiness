@@ -2,12 +2,6 @@
 
 # Lessons Learned From Video Game Developers
 
-Notes:
-- Who has ever played a video game?
-- Who is still a gamer?
-- Who did develop a game?
-- Who succeeded with game dev?
-
 ***
 
 Adam Beres-Deak
@@ -16,7 +10,11 @@ Adam Beres-Deak
 
 [@bdadamm](https://twitter.com/bdadamm/)
 
-Note: Asfdf?
+Note:
+- Who has ever played a video game?
+- Who is still a gamer?
+- Who did develop a game?
+- Who succeeded with game dev?
 
 
 ----
