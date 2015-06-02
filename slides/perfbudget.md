@@ -5,6 +5,10 @@
 
 ----
 
+#  It’s easier to make a fun game fast than it is to make a fast game fun. (Robert Nystrom - Game Programming Patterns)
+
+----
+
 # Time budgets
 
 ----
