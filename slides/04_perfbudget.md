@@ -5,7 +5,7 @@
 
 ----
 
-#### It’s easier to make a fun game fast<br> than it is to make a fast game fun.<br> (Robert Nystrom)
+#### It’s easier to make a fun game fast<br>than it is to make a fast game fun.<br> (Robert Nystrom)
 
 ----
 
