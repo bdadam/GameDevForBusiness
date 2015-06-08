@@ -4,11 +4,19 @@
 
 >Feature creep is the ongoing expansion or addition of new features in a product. 
 Extra features go beyond the basic function of the product and so can result in software bloat rather than simple design.
-
->[Wikipedia](http://en.wikipedia.org/wiki/Feature_creep)
+<footer>[Wikipedia](http://en.wikipedia.org/wiki/Feature_creep)</footer>
 
 Note:
 - aka. featuritis
+
+--
+
+### If the game is already late and you expand the schedule, don't use that extra time to add even more features.
+
+Note:
+DON'T DO THIS:
+
+if the game is already delayed, let's use the extra time and let's implement more features
 
 --
 
@@ -37,3 +45,11 @@ Note:
 --
 
 <img src="images/covers/nfs rivals ntsc.jpg">
+
+--
+
+## Let's concentrate on the core features, which make your game fun
+
+--
+
+## The prototype shows us, what is the core mechanics of the game

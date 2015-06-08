@@ -3,11 +3,11 @@
 
 Note: it's the heart of the game
 
-----
+--
 
 Almost every game uses a game loop.<br>This is probably the most used game programming pattern.
 
-----
+--
 
 > A **game loop** runs continuously during gameplay.
 > Each turn of the loop, it **processes user input** without blocking, **updates the game state**, and **renders the game**.
@@ -15,13 +15,13 @@ Almost every game uses a game loop.<br>This is probably the most used game progr
 
 <div class="attribution">[Robert Nystrom: Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)</div>
 
-----
+--
 
-<img data-src="img/game-loop-simple.png" class="stretch">
+<img data-src="images/game-loop-simple.png" class="stretch">
 
 <div class="attribution">Photo: [Robert Nystrom: Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)</div>
 
-----
+--
 
 ```C
 while (true)
@@ -32,9 +32,9 @@ while (true)
 }
 ```
 
-----
+--
 
-```
+```C
 while( user doesn't exit )
     check for user input
     run AI
@@ -45,7 +45,7 @@ while( user doesn't exit )
 end while
 ```
 
-----
+--
 
 # JavaScript Example
 
@@ -61,10 +61,42 @@ end while
 }());
 ```
 
-----
+--
 
 # Game loops are<br>not just for games
 
-----
+--
 
+```C
+while (softwareIsRunning) {
+    processInputs();
+    updateBusinessObjects();
+    generateOutput();
+}
+```
 
+--
+
+### Idea: Real-time advertising
+
+In every "frame":
+- we process clicks on ads
+    - each click costs some money for the advertiser
+    - each click earns some money for the publisher
+- we update the earnings/expenses
+- we put the newly computed values into a database
+
+--
+
+### Idea: Real-time advertising
+
+```C
+while(true) {
+    processClicksOnAdsSinceLastFrame();
+    
+    updateEarnings();
+    updateExpenses();
+
+    putChangedValuesToDB();
+}
+```

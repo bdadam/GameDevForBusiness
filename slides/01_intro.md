@@ -12,50 +12,34 @@ Adam Beres-Deak
 
 --
 
-# Who has ever played a video game?
-
---
-
-# Who enjoyed playing a game?
-
---
-
-# Who has been thinking of creating a game?
-
---
-
-# Who has really developed a game?
-
---
-
-# Who did succeed with it?
+# Some questions
 
 Note:
-- Who has ever played a video game?
-- Who is still a gamer?
-- Who did develop a game?
-- Who succeeded with game dev?
+Who has ever played a video game?  
+Who enjoyed playing a game?  
+Who is still a gamer?  
+Who has been thinking of creating a game?  
+Who has really developed a game?  
+Who did succeed with it?
 
-----
+--
 
-# I followed a link...
+## What if we developed business software like games?
 
-- to the [GameDev subreddit](http://www.reddit.com/r/gamedev/)
+Note:
+- why am I here?  
+- not a gamedev
+- always admired games
+- what would I do differently?
 
+--
 
-----
-
-Agenda:
+## Agenda
 - Quiz
-- When is a game considered successful?
+- Resources
+- Succesful games
 - Avoid the feature creep
-
-- Motivation
-- Game features and scope
-- Performance budgets
+- Prototyping
 - Game loop
-- Game inputs
-- Maths and Physics
-- State machines
-- Behavior trees
-- 
+- Performance budgets
+- State machines and behavior trees, maths and physics
