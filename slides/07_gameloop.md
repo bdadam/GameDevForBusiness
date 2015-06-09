@@ -1,7 +1,7 @@
 # Game loop
 
-
-Note: it's the heart of the game
+Note:
+it's the heart of the game
 
 --
 
@@ -17,9 +17,7 @@ Almost every game uses a game loop.<br>This is probably the most used game progr
 
 --
 
-<img data-src="images/game-loop-simple.png" class="stretch">
-
-<div class="attribution">Photo: [Robert Nystrom: Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)</div>
+<img data-src="images/gameloop.jpg">
 
 --
 
@@ -100,3 +98,7 @@ while(true) {
     putChangedValuesToDB();
 }
 ```
+
+--
+
+### The game loop is like a recurring job

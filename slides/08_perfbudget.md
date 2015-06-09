@@ -3,60 +3,48 @@
 
 <div class="attribution">Photo: [flickr/teegardin](https://www.flickr.com/photos/teegardin/6097066382/)</div>
 
-----
+--
 
 #### It’s easier to make a fun game fast<br>than it is to make a fast game fun.<br> (Robert Nystrom)
 
-----
+--
 
-# Time budgets
+# Time based budgets
 
-----
+- Startup time
+- Load time, level transition time
 
-# Startup time
-
-----
-
-# Load time, transition time
-
-----
+--
 
 # Per frame
 
 60 frames per second &#x2248; 16.66667 ms per frame
 
-----
+--
 
-# Memory footprint
+# Hardware based
+- Memory footprint
+- Network (bandwidth, latency)
+- Power consumption (phones, tablets, laptops)
 
-----
+--
 
-# Network
+### Testing is made easier
 
-- bandwidth
-- latency
+## within or out of budget?
 
-----
+--
 
-# Power consumption
+## Dealing with new features
+Does feature X fit into the performance budget?
 
-phones, tablets, laptops
-
-----
-
-# How to deal with new features?
-
-----
-
-# Does this feature fit into the performance budget?
-
-----
+--
 
 # What can be removed instead?
 
 Note: what are we willing to pay for it?
 
-----
+--
 
 # Example
 

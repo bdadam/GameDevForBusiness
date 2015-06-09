@@ -1,2 +1,0 @@
-# ECS
-# Entity Component System

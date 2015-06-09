@@ -24,6 +24,10 @@ Who did succeed with it?
 
 --
 
+# Why am I here?
+
+--
+
 ## What if we developed business software like games?
 
 Note:
@@ -40,6 +44,5 @@ Note:
 - Succesful games
 - Avoid the feature creep
 - Prototyping
-- Game loop
-- Performance budgets
-- State machines and behavior trees, maths and physics
+- Programming techniques
+- State machines and behavior trees
