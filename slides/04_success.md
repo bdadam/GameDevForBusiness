@@ -96,6 +96,7 @@ sell the same drink-collecting game for Coca-Cola and Martini with different the
 
 ## Hit Filter @ Wooga Games
 > The Hit Filter is Wooga’s approach to developing mobile games. The idea behind it is to whittle down lots of ideas to a handful, each with the potential of becoming a hit.
+<footer>[Wooga Games](http://www.wooga.com/about/hitfilter/)</footer>
 
 --
 
