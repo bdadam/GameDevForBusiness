@@ -36,7 +36,7 @@ Note:
 - Success = game earns 5-10x its costs
 - Moderate success = 1-2x costs
 - Break even
-- Failure = you loose money
+- Failure = you lose money
 - Serious failure = you earn nothing
 
 --

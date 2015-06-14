@@ -10,7 +10,7 @@
 --
 
 <img src="images/quiz/Super_Mario_Bros.png">
-### Super Mario Bros. (SNES) <!-- .element: class="fragment dark-shadow" -->
+### Super Mario Bros. (NES) <!-- .element: class="fragment dark-shadow" -->
 
 --
 
