@@ -18,10 +18,11 @@ class Ball {
 
 vector<Ball> balls; // classical OOP
 
+// Data Oriented Design:
 class Balls { 
-    vector<Point>  position; // DOD:
-    vector<Color>  color;    // arrays of properties
-    vector<double> radius;   // NOT arrays of objects
+    vector<Point>  position; // arrays of properties
+    vector<Color>  color;    // NOT arrays of objects
+    vector<double> radius;
     void draw();
 };
 ```

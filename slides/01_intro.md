@@ -1,30 +1,20 @@
-<!-- .s-lide: data-background-video="images/carsdrifting.mp4" -->
+<!-- .slide: data-background="images/2787480520_47bfb95290_o.jpg" -->
 
-# Lessons Learned From Video Game Developers
+### Lessons Learned From Game Developers
 
 ***
 
-Adam Beres-Deak
-
-[bdadam.com](http://bdadam.com)
-
-[@bdadamm](https://twitter.com/bdadamm/)
+Adam Beres-Deak &middot; @bdadamm &middot; bdadam.com
 
 --
 
 # Some questions
 
 Note:
-Who has ever played a video game?  
 Who enjoyed playing a game?  
 Who is still a gamer?  
-Who has been thinking of creating a game?  
 Who has really developed a game?  
 Who did succeed with it?
-
---
-
-# Why am I here?
 
 --
 

@@ -41,6 +41,8 @@ Note:
 
 --
 
+TODO: flappy bird background
+
 ### Tough business
 - It is hard to predict, which game is going to be the **ONE**
 - There is no job security
@@ -50,7 +52,7 @@ Note:
 
 --
 
-## What can be done against this?
+## What do game devs against this?
 
 --
 
@@ -120,6 +122,25 @@ Note:
 
 --
 
+## Some famous games as prototypes
+
+--
+
+## Mario shooter
+
+TODO: image
+
+--
+
+## Mortal Kombat as a van Damme game
+
+TODO: image
+
+Note:
+van Damme was renamed as Johny Cage - licensing costs/issues
+
+--
+
 # User testing
 
 - invite users to play the game/prototype
@@ -136,3 +157,9 @@ They can only tell you, what made them have fun
 They can't tell you, what will make your game fun  
 
 AS24 takes prototypes out of the building (e.g. survey at petrol station)
+
+--
+
+## Ask a gamedev studio for help
+
+- they are not your competitor
