@@ -41,7 +41,7 @@ Note:
 
 --
 
-TODO: flappy bird background
+<!-- .slide: data-background="images/quiz/Flappy-Bird.jpg" -->
 
 ### Tough business
 - It is hard to predict, which game is going to be the **ONE**

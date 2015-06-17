@@ -1,4 +1,6 @@
 <!-- .slide: data-background="images/2787480520_47bfb95290_o.jpg" -->
+<div class="attribution">[flickr/chaparral](https://www.flickr.com/photos/chaparral/2787480520/)</div>
+
 
 ### Lessons Learned From Game Developers
 
@@ -30,7 +32,6 @@ Note:
 
 ## Agenda
 - Quiz
-- Resources
 - Succesful games
 - Avoid the feature creep
 - Prototyping
