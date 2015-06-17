@@ -1,4 +1,4 @@
-# Success is not predictable
+# What makes game developers tick?
 
 --
 
@@ -9,10 +9,6 @@ Game programmers are not insulated from this instability as their employers expe
 
 Note:
 It is unpredictable, which game is a hit, which one is a failure.
-
---
-
-# What makes game developers tick?
 
 --
 
