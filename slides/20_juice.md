@@ -1,3 +1,6 @@
+<!-- .slide: data-background="images/5013228330_f744f348f3_o.jpg" -->
+<div class="attribution">[flickr/moonhouse](https://www.flickr.com/photos/moonhouse/5013228330/)</div>
+
 # Some juice?
 
 --
@@ -20,3 +23,7 @@
 --
 
 <img data-src="images/vs-color-request.png">
+
+--
+
+## Vibration, colors, animation, sound

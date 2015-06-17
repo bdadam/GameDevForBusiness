@@ -1,16 +1,22 @@
 <!-- .slide: data-background="images/6097066382_e4f07e8a75_o.jpg" -->
-# Performance budgets
-
 <div class="attribution">Photo: [flickr/teegardin](https://www.flickr.com/photos/teegardin/6097066382/)</div>
+
+# Performance budgets
 
 --
 
 #### It’s easier to make a fun game fast<br>than it is to make a fast game fun.<br> (Robert Nystrom)
 
+But we still have to make it fast.
+
 Note:
 but a game must still be fast
 
 --
+
+<!-- .slide: data-background="images/53d7ad732fafc.png" -->
+<div class="attribution">Photo: [rcwebdev.co.uk](http://www.rcwebdev.co.uk/view-portfolio/c64-loading-screen-simulator)</div>
+
 
 # Time based budgets
 
@@ -21,6 +27,9 @@ Note:
 web development has this budget
 
 --
+
+<!-- .slide: data-background="images/5187446637_613eb6763e_o.jpg" -->
+<div class="attribution">Photo: [flickr/schtumple](https://www.flickr.com/photos/schtumple/5187446637/)</div>
 
 # Per frame
 

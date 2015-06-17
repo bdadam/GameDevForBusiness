@@ -11,12 +11,11 @@ Note:
 
 --
 
-### If the game is already late and you expand the schedule, don't use that extra time to add even more features.
+<!-- .slide: data-background="images/16641799282_6280ea9f59_o.jpg" class="empty" -->
+<div class="attribution">[flickr/Alvaro Dorsey](https://www.flickr.com/photos/128429789@N05/16641799282/)</div>
 
 Note:
-DON'T DO THIS:
-
-if the game is already delayed, let's use the extra time and let's implement more features
+- If the game is already late and you expand the schedule, don't use that extra time to add even more features.
 
 --
 
@@ -28,28 +27,24 @@ if the game is already delayed, let's use the extra time and let's implement mor
 
 --
 
-<img src="images/covers/CallofDuty4DVD.jpg">
+<img data-src="images/covers/CallofDuty4DVD.jpg">
 
 --
 
-<img src="images/covers/GTA V Cover.jpg">
+<img data-src="images/covers/GTA V Cover.jpg">
 
 --
 
-<img src="images/covers/GTA_FIVE_PAL_DVD_COVER(1).jpg">
+<img data-src="images/covers/GTA_FIVE_PAL_DVD_COVER(1).jpg">
 
 --
 
-<img src="images/covers/Mario Kart Wii PAL UK Cover.jpg">
+<img data-src="images/covers/Mario Kart Wii PAL UK Cover.jpg">
 
 --
 
-<img src="images/covers/nfs rivals ntsc.jpg">
+<img data-src="images/covers/nfs rivals ntsc.jpg">
 
 --
 
-## Let's concentrate on the core features, which make your game fun
-
---
-
-## The prototype shows us, what is the core mechanics of the game
+<img data-src="images/star-citizen-kickstarter.png">

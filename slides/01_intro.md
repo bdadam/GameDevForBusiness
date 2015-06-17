@@ -6,11 +6,7 @@
 
 ***
 
-Adam Beres-Deak &middot; @bdadamm &middot; bdadam.com
-
---
-
-# Some questions
+Adam Beres-Deak &nbsp;&nbsp;&middot;&nbsp;&nbsp; @bdadamm &nbsp;&nbsp;&middot;&nbsp;&nbsp; bdadam.com
 
 Note:
 Who enjoyed playing a game?  
@@ -20,7 +16,7 @@ Who did succeed with it?
 
 --
 
-## What if we developed business software like games?
+## What if I developed business software like a game?
 
 Note:
 - why am I here?  
@@ -36,4 +32,3 @@ Note:
 - Avoid the feature creep
 - Prototyping
 - Programming techniques
-- State machines and behavior trees

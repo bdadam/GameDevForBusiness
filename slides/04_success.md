@@ -52,27 +52,18 @@ Note:
 
 --
 
-## What do game devs against this?
-
---
-
-### Create once - publish several times
-- Publish the game on several platforms
-- Relabel or reskin the game
-
-Note:
-sell the same drink-collecting game for Coca-Cola and Martini with different themes
-
---
-
-## Fail fast, fail early
+## How to deal with this?
 
 --
 
 # Feedback
 
-- get it early
-- get it constantly
+- Get it early and constantly
+- Fail fast, fail early
+
+--
+
+<img data-src="images/earlyaccess.jpg">
 
 --
 
@@ -128,16 +119,41 @@ Note:
 
 ## Mario shooter
 
-TODO: image
+<img data-src="images/ku-xlarge.jpg">
+<div class="attribution">[kotaku](http://www.kotaku.com.au/2012/05/science-says-dont-play-super-mario-galaxy-before-trying-to-shoot-someone-in-the-face/)</div>
 
 --
 
 ## Mortal Kombat as a van Damme game
 
-TODO: image
+<img data-src="images/93048_v1.jpg">
+<div class="attribution">[cracked.com](http://www.cracked.com/article_19457_6-baffling-early-prototypes-your-favorite-video-games.html)</div>
 
 Note:
 van Damme was renamed as Johny Cage - licensing costs/issues
+
+--
+
+## Apple I
+
+<img data-src="images/Sy9qLnC.jpg" style="max-height: 560px;">
+<div class="attribution">[techeblog.com](http://www.techeblog.com/index.php/tech-gadget/10-early-and-rarely-seen-prototypes-of-now-famous-gadgets)</div>
+
+--
+
+## iPhone
+
+<img data-src="images/zcIpvB5.jpg" style="max-height: 560px;">
+<div class="attribution">[techeblog.com](http://www.techeblog.com/index.php/tech-gadget/10-early-and-rarely-seen-prototypes-of-now-famous-gadgets)</div>
+
+--
+
+### Create once - publish several times
+- Publish the game on several platforms
+- Relabel or reskin the game
+
+Note:
+sell the same drink-collecting game for Coca-Cola and Martini with different themes
 
 --
 

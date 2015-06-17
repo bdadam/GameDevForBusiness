@@ -47,5 +47,10 @@
 
 --
 
+<img src="images/quiz/duke_nukem_3d_megaton_edition_screenshot_06.jpg" style="max-height: 600px;">
+### Duke Nukem <!-- .element: class="fragment dark-shadow" -->
+
+--
+
 <img data-src="images/quiz/trackmania.png">
 ### Trackmania <!-- .element: class="fragment dark-shadow" -->
