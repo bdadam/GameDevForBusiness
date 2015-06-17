@@ -5,7 +5,6 @@
 - Prototyping and early feedback
 - Avoiding feature creep
 - Programming techniques
-- Modelling complex actions
 
 Note:
 - game loop
@@ -15,6 +14,9 @@ Note:
 - beh. trees
 
 --
+
+<!-- .slide: data-background="images/14480233596_1dc8ac6451_k.jpg" class="darkerbg" -->
+<div class="attribution">Bild: [flickr/jaguarcarsmena](https://www.flickr.com/photos/jaguarcarsmena/14480233596/)</div>
 
 #### ~~Game Over~~
 
