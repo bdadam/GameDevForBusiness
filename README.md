@@ -1,5 +1,7 @@
-// TODO: replace this readme with your project's
+# Lessons learned from game developers
 
-# Quickstarter for Reveal.js presentations
+Talk at NDC 2015
 
-[Reveal.js](http://lab.hakim.se/reveal-js/) - [code on GitHub](https://github.com/hakimel/reveal.js/)
+18 Jun 2015
+
+Adam Beres-Deak
