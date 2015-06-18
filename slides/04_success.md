@@ -122,6 +122,9 @@ Note:
 <img data-src="images/ku-xlarge.jpg">
 <div class="attribution">[kotaku](http://www.kotaku.com.au/2012/05/science-says-dont-play-super-mario-galaxy-before-trying-to-shoot-someone-in-the-face/)</div>
 
+Note:
+Shigeru Miyamoto - game designer
+
 --
 
 ## Mortal Kombat as a van Damme game

@@ -1,3 +1,10 @@
+<!-- .slide: data-background="images/9675595192_b18a152110_h.jpg" -->
+<div class="attribution">Photo: [flickr/pasukaru76](https://www.flickr.com/photos/pasukaru76/9675595192/)</div>
+
+# Programming techniques
+
+--
+
 # Game loop
 
 Note:

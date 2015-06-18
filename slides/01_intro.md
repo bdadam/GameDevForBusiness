@@ -29,6 +29,7 @@ Note:
 ## Agenda
 - Quiz
 - Succesful games
-- Avoid the feature creep
 - Prototyping
+- Feature creep
+- Game Juice
 - Programming techniques

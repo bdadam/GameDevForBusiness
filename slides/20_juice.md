@@ -16,6 +16,9 @@
 
 [Juicy Breakout](http://grapefrukt.com/f/games/juicy-breakout/)
 
+Note:
+Martin Jonasson & Petri Purho
+
 --
 
 #### Why wouldn't some juice also help business software?
@@ -26,4 +29,4 @@
 
 --
 
-## Vibration, colors, animation, sound
+### Idea: Vibration, colors, animation, sound

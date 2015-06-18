@@ -47,8 +47,12 @@
 
 --
 
-<img src="images/quiz/duke_nukem_3d_megaton_edition_screenshot_06.jpg" style="max-height: 600px;">
-### Duke Nukem <!-- .element: class="fragment dark-shadow" -->
+<img src="images/quiz/93172-Duke_Nukem_3D_(1996)(3D_Realms)-6.jpg" style="max-height: 600px;">
+
+--
+
+<img src="images/quiz/gfs_42049_1_1.jpg" style="max-height: 600px;">
+### Duke Nukem
 
 --
 
