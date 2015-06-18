@@ -1,10 +1,10 @@
 ## Recap
 
-- Game programming is not easy
 - Success is not predictable
 - Prototyping and early feedback
-- Avoiding feature creep
-- Programming techniques
+- Game juice
+- Feature creep
+- Game loop, performance budgets
 
 Note:
 - game loop
